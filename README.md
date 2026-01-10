@@ -47,15 +47,6 @@ A physics-based workspace for Projects, Tasks, Notes, and Habits.
 
 ## Installation
 
-
-| Platform | Download |
-|----------|----------|
-| Windows | [.exe installer](../../releases/latest) |
-| macOS (Apple Silicon) | [.dmg](../../releases/latest) | (coming soon)
-| macOS (Intel) | [.dmg](../../releases/latest) | (coming soon)
-| Linux | [.AppImage](../../releases/latest) or [.deb](../../releases/latest) | (coming soon)
-
-
 ### Windows
 1. Download the `.exe` installer from the latest release
 2. Run the installer and follow the prompts
