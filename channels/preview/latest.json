@@ -4,7 +4,7 @@
   "pub_date": "2026-01-16T02:20:54Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSGl1NENiUG9YdWlMT3JFZW15RDBhR3BzalhwMjc4WHVkaG81OUJlQ2o2VGxDZ1k5bmhjTU5mcEozYTZBUXVvakhva0M3eERLTDhQd0kycEJpN0RpOGVWaWpGMjd2WlE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NDc2NjA0CWZpbGU6QW5hbmRpYSBXb3Jrc3BhY2UgUHJldmlld18wLjEuNS1wcmV2aWV3LjNfYW1kNjQuQXBwSW1hZ2UKem1BVUdNMXFOSThtMjdKcERRWG4xYktZdXBVUngwRDYwT2VBaDhIVDI0L05aRStFUDRLVUo1THhkSU5kVGkyenZXbzVPdW9WOFVMMGl4L2xOU1BZQkE9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSGl1NENiUG9YdWo1ZC9aOHovN2tCVVhGdHVIZ3A4Vllldm4rakErZXFWYmJUcEZMNHh5dDVkL1NpK2dJYmxEUGtzNXdKcyt1QUN3Z0RWZnl5TWhCZjdvaDdwM1hVUmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NTMwMDE2CWZpbGU6QW5hbmRpYSBXb3Jrc3BhY2UgUHJldmlld18wLjEuNS1wcmV2aWV3LjRfeDY0LXNldHVwLmV4ZQpQYlhOejc5R2Z2VVlYbUxTanVwK2VHejNPRVlJWjYrK0NCMkxGK2p3Rmh5RzAxZjltWTRmbHhjMHhFU1A4Y21PVUROVUloVzJVMjlSMHBTWTRBWVpCdz09Cg==",
       "url": "https://github.com/anandia-io/anandia-workspace-releases/releases/download/v0.1.5-preview.4/Anandia.Workspace.Preview_0.1.5-preview.4_x64-setup.exe"
     },
     "linux-x86_64": {
