@@ -1,6 +1,15 @@
 {
-  "version": "0.1.4",
-  "notes": "Placeholder - will be updated on first release",
-  "pub_date": "2025-01-01T00:00:00Z",
-  "platforms": {}
+  "version": "0.1.5",
+  "notes": "See the release notes on GitHub for details.",
+  "pub_date": "2026-01-16T04:06:29Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSGl1NENiUG9YdW1pVmkvTkdwNkx6MkVmTllVQy9tRVhNNktBT01JczlIWEhCU09hTnFseFVZOC9XUTBUdUNPRzJ1WGFWRVFITnRkRVFrNW4za1lOUTJ6WVJsZkVuUXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NTM2MzYwCWZpbGU6QW5hbmRpYSBXb3Jrc3BhY2VfMC4xLjVfeDY0LXNldHVwLmV4ZQpuSXJ5dmc1MEkzZWh2YlhSUU5vaEtudUNpRFZkTVZSRTFvc1cra2RwRStTb2dUejV1V0VTTHg3bEp1VUlPMXFXaWRJV21YYzNoV0xkVGx3QWFtRm9Bdz09Cg==",
+      "url": "https://github.com/anandia-io/anandia-workspace-releases/releases/download/v0.1.5/Anandia.Workspace_0.1.5_x64-setup.exe"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSGl1NENiUG9YdXIxZ0VVSE1ITzkyRDNGK3c0dEVRd3IwWERDVHVFY2h6cy9UUTNHMmdZMFpMVU1rVEl4d1FiNmlWUHNZTUpPYW40aVNRTjd3THVWL29zYW5GTEk0dWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NTM2MzY0CWZpbGU6QW5hbmRpYSBXb3Jrc3BhY2VfMC4xLjVfYW1kNjQuQXBwSW1hZ2UKT3duRCsxZDY2V2RlazhpNXQyL202S3NyRzFEU09xWXZmY1gzM2RHOGMrSTlEbnFpeFc5MXdkSzRZWkd1cHpSL0VPRlIxUWVlQThFSWQ4YUtzQ1F6QkE9PQo=",
+      "url": "https://github.com/anandia-io/anandia-workspace-releases/releases/download/v0.1.5/Anandia.Workspace_0.1.5_amd64.AppImage"
+    }
+  }
 }
