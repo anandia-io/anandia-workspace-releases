@@ -11,7 +11,7 @@ A physics-based workspace for Projects, Tasks, Notes, and Habits.
 | Windows (x64) | [Download Installer](../../releases/latest) | Available |
 | macOS (Apple Silicon) | Coming Soon | - |
 | macOS (Intel) | Coming Soon | - |
-| Linux (AppImage/deb) | Coming Soon | - |
+| Linux (AppImage/deb) | [Download Installer](../../releases/latest) | Available |
 
 > **Note:** Windows builds are currently unsigned. You may see a SmartScreen warning - click "More info" then "Run anyway" to install. Code signing certificate coming soon.
 
