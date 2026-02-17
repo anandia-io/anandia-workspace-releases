@@ -1,15 +1,19 @@
 {
-  "version": "0.1.7-preview.1",
+  "version": "0.2.0-preview.3",
   "notes": "See the release notes on GitHub for details.",
-  "pub_date": "2026-01-27T05:40:40Z",
+  "pub_date": "2026-02-17T04:41:48Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSGl1NENiUG9YdXVLQzBBNWxFZ29NZjJrYmRJVXQwdVFpQVBzVGV2ZjJNUXRwci9jS3Vydnh0dkI3NTFvYTBCOVhHKzNqd1lkMlB2SUF6bzlFUHNYSGxKQ29LN21iSlFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5NDkyMzgyCWZpbGU6QW5hbmRpYSBXb3Jrc3BhY2UgUHJldmlld18wLjEuNy1wcmV2aWV3LjFfeDY0LXNldHVwLmV4ZQo2bnJ3RmIyWmxnMlNOcEhkaWlYcG1GL3dPc2ZqRFR0WkNjbUZ1VHhUVU9iQy9zcSsxWngrYVdvdnYyVXNwb3kvb2V0RTNRZmgwYlZQWHZnL2w2MVhBZz09Cg==",
-      "url": "https://github.com/anandia-io/anandia-workspace-releases/releases/download/v0.1.7-preview.1/Anandia.Workspace.Preview_0.1.7-preview.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSGl1NENiUG9YdW81VUJwN1JTZzZzbW9iWFFqU2F6ODgxa0g2WkxIeUR5MEFxSTJjZzQ0aWZUWWhSSlA5emxsOE5IZ1dYelRiVXFVcWNQSlZsd3U1UGJMeXRENXJQZGdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxMzAyOTk0CWZpbGU6QW5hbmRpYSBXb3Jrc3BhY2UgUHJldmlld18wLjIuMC1wcmV2aWV3LjNfeDY0LXNldHVwLmV4ZQpUOXFSWFJ1RlZWUWFSRlBUZURFUmJYaFBoTmdXYWtyeGFFR0NTamREbTNMV3lCeW9xN2ZIMmRmdmpHNDJlSHVHblgwaHdveFI4M1RYa3ppVFd5dGVDQT09Cg==",
+      "url": "https://github.com/anandia-io/anandia-workspace-releases/releases/download/v0.2.0-preview.3/Anandia.Workspace.Preview_0.2.0-preview.3_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSGl1NENiUG9YdXZhZFZoWG56bm9hZHhTeHJKb3plMU9jdkViUlVnRklaTmhsOTdVcE80dzhOSGVuNWVVUlJxN1NyRXVYak01SWZreldyQ1gvWVdaL0VFUjJ5cktBS1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxMzAzMjM2CWZpbGU6QW5hbmRpYSBXb3Jrc3BhY2UgUHJldmlldy5hcHAudGFyLmd6CitkVVdVRXlGNmkxY3lTOGY4U0xnRHZBbVlXczZoRVVMRWE5VHhRY1JOR3NXUFBwY1laV3lnRDhsOTZjWUp0N0V5ZGUzMFBRckc1MVZSNTIvOXBRbEFBPT0K",
+      "url": "https://github.com/anandia-io/anandia-workspace-releases/releases/download/v0.2.0-preview.3/Anandia.Workspace.Preview_aarch64.app.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSGl1NENiUG9YdW5iRGVNNCs2dUtzdzcyM2FLM2RXK0xCOS80MEtWQ3VyMjZycEZXZWg3cVdCaVZLSWVqdDh1RkZlR2FoNmR4Nk15STd2bUEyZnJoTHdXYnkzaWh4TUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5NDkyNDA5CWZpbGU6QW5hbmRpYSBXb3Jrc3BhY2UgUHJldmlld18wLjEuNy1wcmV2aWV3LjFfYW1kNjQuQXBwSW1hZ2UKYlNwYmVBVHZHREx3bGlxOUFGNzZRZkI0S1h5TERyYWdjR1E3ditVaENsZmJ5VlpWRjRER1FhSFJOSzBWWUNpYVppSzVmL25tN0I0OXBSMlJ3dWhTQ0E9PQo=",
-      "url": "https://github.com/anandia-io/anandia-workspace-releases/releases/download/v0.1.7-preview.1/Anandia.Workspace.Preview_0.1.7-preview.1_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSGl1NENiUG9YdW5SeERVZWpJQlc1UWkrb1RnK0xmVXlJRUhsTGZpOEtPam1FczNFMHRadkV5aVJGUWNMWFViVU5GUUJoWVhCNUJCdTE1cllmdnJuaUZtWllZeU9qWVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxMzAyOTA2CWZpbGU6QW5hbmRpYSBXb3Jrc3BhY2UgUHJldmlld18wLjIuMC1wcmV2aWV3LjNfYW1kNjQuQXBwSW1hZ2UKaHBrZnNFaCt0bFh4WWNUVGFTbTJkenFlODhCeUhhdnhqb280cGVrWkNrK3FsR05zSVFieWQxWFFFWlN4T2o5RXdBZXBhL00vNE5uUloxd20xcWVzQ0E9PQo=",
+      "url": "https://github.com/anandia-io/anandia-workspace-releases/releases/download/v0.2.0-preview.3/Anandia.Workspace.Preview_0.2.0-preview.3_amd64.AppImage"
     }
   }
 }
