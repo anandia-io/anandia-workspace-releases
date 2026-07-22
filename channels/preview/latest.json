@@ -1,19 +1,19 @@
 {
-  "version": "0.2.5-preview.1",
+  "version": "0.2.5-preview.2",
   "notes": "See the release notes on GitHub for details.",
-  "pub_date": "2026-07-19T07:39:48Z",
+  "pub_date": "2026-07-22T12:23:09Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSGl1NENiUG9YdW9uRmIvMUpLZk9QZzRBckR5L2VZa1JkSmdWK2RNYldQVXJnYUFuTHdWTW5IQ3M1VjFvc0xERUxUaHZDQmpiMWdCYnN4cTF0UVdVZEJpZ3Fpa2dIM2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDQ2MzY5CWZpbGU6QW5hbmRpYSBXb3Jrc3BhY2UgUHJldmlld18wLjIuNS1wcmV2aWV3LjFfeDY0LXNldHVwLmV4ZQpYem1RNDlWb2loNFdZQkhWZmNPMHRyWWFNT21rVDY2a2FnTCtwVTk3a3owR005MU0yZTdrMXhvRFlJSDZrMkxYSTFWNE1LTFZBM2lEWU1MeFI5K1dDdz09Cg==",
-      "url": "https://github.com/anandia-io/anandia-workspace-releases/releases/download/v0.2.5-preview.1/Anandia.Workspace.Preview_0.2.5-preview.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSGl1NENiUG9YdXROMEdwbzhubG1aeit2a1IxRG94UGZHMisrNGE0bVRJR2pLc3Z3aUxTSmxSbmR4OEhENkNmc3RjZ1JTaUJsWlk1cXVScExNQWRQaWlMUDFzNkhBUmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NzIyNzQ2CWZpbGU6QW5hbmRpYSBXb3Jrc3BhY2UgUHJldmlld18wLjIuNS1wcmV2aWV3LjJfeDY0LXNldHVwLmV4ZQpXQ3VtTlc2MDdsd0hYOCswSmNaYWovakg4eEc4UFFRUGNtTVRkQ2NCR05LcnVNWUUwbi81bUg3MlJ0UFRyZzJMTHRJa1NTSWpKSlVsWVZTOUpjVFJDUT09Cg==",
+      "url": "https://github.com/anandia-io/anandia-workspace-releases/releases/download/v0.2.5-preview.2/Anandia.Workspace.Preview_0.2.5-preview.2_x64-setup.exe"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSGl1NENiUG9YdXV2WU1uTmlXN0UyVTJMSUNwY3FzVEFNTFg4WGZWcU9WQWJYMExqVzMwdFBGajNZdDZsMVk0dDJRQTN0dUhHRDRicjJZaERpVU5BcHFXSCttcHJidlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDQ2NzEyCWZpbGU6QW5hbmRpYSBXb3Jrc3BhY2UgUHJldmlldy5hcHAudGFyLmd6CktSa0hKMGlJZUEwZ3MwMW95aGtqdUlCQlVxdldrL2RNN1F0YjNoc0JOMzRUa0QyVkJldlBOVEdlMDRaYlpLL0JzR0NOVWZQOThRR29xZkdwRFhSU0F3PT0K",
-      "url": "https://github.com/anandia-io/anandia-workspace-releases/releases/download/v0.2.5-preview.1/Anandia.Workspace.Preview_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSGl1NENiUG9YdWovMnlBRGZsQnB1TEQ0L1FISXY0ejdjWWFaa0RJTDAzeWF1aHpCMW5ZY3hUOTFCN1p3ckJwczlpMmFPZ1lPdEdmWkNPdkFmczYveWNPMnBNeTR1a3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NzIyOTM1CWZpbGU6QW5hbmRpYSBXb3Jrc3BhY2UgUHJldmlldy5hcHAudGFyLmd6CktmeHlLUnRDKzhtYW9Fd2VLcGxXRHhmamQwNEt3d3BOeXZQaUxQcWp6bjFEaDgyaTIvNVVoVzQ0VkFEV3pPUjZPZUJzSFFqTGtKa3VmTWo3UFBLa0FBPT0K",
+      "url": "https://github.com/anandia-io/anandia-workspace-releases/releases/download/v0.2.5-preview.2/Anandia.Workspace.Preview_aarch64.app.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSGl1NENiUG9YdWpwUnFxMFJQYWpuamZ4ekJ4Z21sVHRjUUVaWEU1NzNTRWQ2WExyRHBaWjAxb0xzRmlTTzJxZXo4NXp5NGpyb1dKVGxGYm9hQ1hSNG9WaVMyeXBhR3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDQ2MjM4CWZpbGU6QW5hbmRpYSBXb3Jrc3BhY2UgUHJldmlld18wLjIuNS1wcmV2aWV3LjFfYW1kNjQuQXBwSW1hZ2UKSmVnUzBZaVJrTzFtLytKWk15Z0xydmM1ajNZQTJaQXg0WHR4U3dxYlRZWWVsb3dxSllkV1hUcGhwb1ovMUpIQks4V25KQTVoZXZZRGlvQ2w0Sy9vQmc9PQo=",
-      "url": "https://github.com/anandia-io/anandia-workspace-releases/releases/download/v0.2.5-preview.1/Anandia.Workspace.Preview_0.2.5-preview.1_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSGl1NENiUG9YdXA4WFZuUTMxYVpvdDI3U0dLWU03WW9ieXdOTXFCYUxkajNuU2d2RnZPSnBjRXJOak8vZjBNaFVWdEpROFYzYnlyZHZ4dWdSMkUzNVRjcFNBcjU4RUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NzIyNTg2CWZpbGU6QW5hbmRpYSBXb3Jrc3BhY2UgUHJldmlld18wLjIuNS1wcmV2aWV3LjJfYW1kNjQuQXBwSW1hZ2UKc3NpZXpkaTloSXplaUNKdFpQcnBmZ2xWSS8vT0YveUJrc1hPOWlDMGlFalNNV0Z5RnhvWXEzNFpEVThZbkdQVmh1THloVUluWit5SHZZbTZjZGdMQ3c9PQo=",
+      "url": "https://github.com/anandia-io/anandia-workspace-releases/releases/download/v0.2.5-preview.2/Anandia.Workspace.Preview_0.2.5-preview.2_amd64.AppImage"
     }
   }
 }
